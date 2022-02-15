@@ -1,21 +1,5 @@
-#box1 {
-    background-color: red;
-    width: 500px;
-    display: inline-block;
-}
-
-#box2 {
-    background-color: yellow;
-    width: 500px;
-    display: inline-block;
-}
-
-
-
-
-@media only screen and (min-width: 600px) {
-    body {
-        background-color: lightblue;
-    }
-
+.parent {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
