@@ -1,3 +1,30 @@
-body {
-    background-color: beige;
+/*GITHUB LINK: https://github.com/vyyytenis/example*/
+/*CSS SPECIFICITY: https://www.w3schools.com/css/css_specificity.asp*/
+/*BACKGROUND IMAGE: https://www.w3schools.com/cssref/pr_background-image.asp*/
+
+div {
+    background-color: bisque;
+    text-align: center;
+
+    width: 520px;
+    height: 520px;
+
+    background-image: url(mantable.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+    border-radius: 50%;
 }
+
+/*#box {*/
+/*    background-color: red;*/
+/*}*/
+
+/*div#box {*/
+/*    background-color: yellow;*/
+/*}*/
+
+
+
+
