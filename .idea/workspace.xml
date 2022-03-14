@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa34854d-c10f-418f-a60d-2f792add62fd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/example.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/example.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/magento2plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/magento2plugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/grid-form.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/grid-test.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/postal-office.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/navigation.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mantable.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/navigation.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/contact.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -96,7 +84,7 @@
       <workItem from="1646846267985" duration="704000" />
       <workItem from="1646847744592" duration="114000" />
       <workItem from="1646892810515" duration="6000" />
-      <workItem from="1647270963688" duration="5477000" />
+      <workItem from="1647270963688" duration="6326000" />
     </task>
     <task id="LOCAL-00001" summary="added responsive navigation">
       <created>1645117453203</created>
